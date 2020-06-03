@@ -3,8 +3,11 @@
 	"slug" : "sorting-cards-with-select",
 	"status": "published",
 	"solution": "https://jsfiddle.net/BreatheCode/8c36nrk5/7/",
-	"duration" : 4,
-	"preview": "",
+	"duration" : 6,
+	"difficulty": "intermediate",
+	"technologies": ["vanilla.js", "javascript", "html/css"],
+	"syntax": "vanilla.js",
+	"preview": "https://raw.githubusercontent.com/breatheco-de/exercise-sorting-cards-with-select/master/thumb.png",
 	"translations": ["es", "us"],
 	"description" : "Practice building algorithms by doing a selection-sorting algorithm and displaying it on a website",
 	"talents": [
