@@ -1,6 +1,6 @@
 # Sorting Cards using the selection algorithm
 
-The "Selection Soring Algorithm" is also another simple example of how computers work when sorting list of things. [Here is a 5 min explanation on how the selection algorithm works](https://www.youtube.com/watch?v=g-PGLbMth_g)
+The "Selection Sorting Algorithm" is also another simple example of how computers work when sorting list of things. [Here is a 5 min explanation on how the selection algorithm works](https://www.youtube.com/watch?v=g-PGLbMth_g)
 
 https://github.com/breatheco-de/exercise-sorting-cards-with-bubble/pull/3
 
