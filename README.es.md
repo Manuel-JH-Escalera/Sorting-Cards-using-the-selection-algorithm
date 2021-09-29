@@ -27,7 +27,7 @@ git clone  https://github.com/4GeeksAcademy/vanillajs-hello
 
 Así debiera verse tu aplicación:
 
-![Bubble Sorting Cards on a website](https://projects.breatheco.de/json?slug=sorting-cards-with-select&preview)
+![Bubble Sorting Cards on a website](https://github.com/breatheco-de/exercise-sorting-cards-with-select/blob/master/preview.gif?raw=true)
 
 Pista:
 
